@@ -1,6 +1,6 @@
 # 🔧 Gensyn Node Setup – Made by Thakur Saab 🇮🇳🚩 (Gujarat)
 
-> One-click style full setup for your Gensyn Testnet Node with a 🔥 custom banner.
+> One-click style full setup for your Gensyn Testnet Node 
 
 ---
 
