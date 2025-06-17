@@ -65,7 +65,7 @@ source .venv/bin/activate
 ➡️ Choose:
 - Press `Y`
 - Then `A`
-- Then `32`
+- Then `7`
 
 ---
 
